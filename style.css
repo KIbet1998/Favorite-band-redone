@@ -1,0 +1,33 @@
+p{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    font-weight: 700;
+}
+h1,h2{
+    color:black;
+    background-color: chocolate;
+    text-align:center;
+    padding: 1px;
+    border: 1px;
+    margin: 1px;
+}
+li{
+    color:maroon;
+    font-style: italic;
+    font-size:medium;
+    font-family: cursive;
+}
+body{
+    background-color: beige;
+
+}
+span{
+    color: black;
+    font-style: oblique;
+}
+ol{
+    overflow: auto;
+    border: 3px solid blue;
+}
